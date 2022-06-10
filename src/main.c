@@ -78,11 +78,6 @@ void MainThreadFunction(void) {
         }
     }
 
-    if (gcn == 0) {
-        debug_printf("no gcn :C\n");
-        while (1);
-    }
-
     while (1) {
         Step();
     }
