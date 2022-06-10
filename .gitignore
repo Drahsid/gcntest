@@ -1,0 +1,8 @@
+*.cmd
+lib/*.a
+lib/*.o
+lib/boot.6102
+build
+tools/n64crc
+.vscode
+game.z64

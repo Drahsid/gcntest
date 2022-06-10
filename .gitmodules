@@ -1,0 +1,4 @@
+[submodule "ultralib"]
+	path = ultralib
+	url = https://github.com/Drahsid/ultralib.git
+	branch = gcn
